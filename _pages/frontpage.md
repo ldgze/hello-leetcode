@@ -5,17 +5,17 @@ title: Welcome
 list_title: My blog posts
 ---
 
-This is a template and some instructions for running Github Pages with the [`minima` theme][minima]. This repo has what I consider the minimum pieces for a personal blog using [Jekyll][jk] and [Github Pages][gh-site].
+Hello! 我是 Dongze，这里是我的 LeetCode 刷题记录📝 Blog。
 
-Check out the excellent [`minima` theme][minima] documentation for further details and customization and the [official docs][gh] for more details on how Github Pages work.
+今天是 2022 年 10 月 10 日，终于搭建好了我的博客。订下我的刷题小目标：2022 年 12 月 31 日之前，刷完 [**代码随想录**](https://programmercarl.com/) 的 200 道题目。
 
-Do you have questions? feel free to [open an issue](https://github.com/jsanz/gh-pages-minima-starter/issues/new/choose) or reach me from my [contact form](https://www.jorgesanz.net/contact/).
+加油加油加油！！！
 
-<img src="./assets/imgs/screenshot.png" width="400px">
+我的 [LeetCode](https://leetcode.com/ldgze/) 主页。
 
-For more details about how this example site works checkout [the github project](https://github.com/jsanz/gh-pages-minima-starter). Do you have questions? feel free to [open an issue](https://github.com/jsanz/gh-pages-minima-starter/issues/new/choose) or reach me from this [contact form](https://www.jorgesanz.net/contact/).
-
-Have a great day!!
+|   Date 📅   | Complete problems 🧩 | Count ❇️ | Countdown ⏳ |
+| :--------: | :-----------------: | :-----: | :---------: |
+| 2020-10-10 |          6          |    6    |     81      |
 
 [gh-site]: https://pages.github.com/
 [minima]: https://github.com/jekyll/minima/tree/2.5-stable

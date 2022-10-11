@@ -4,6 +4,6 @@ layout: page
 title: About me
 ---
 
-More details about me on this page with links to my social media profiles and so on.
+MS CS Student seeking SDE Internships/Co-Ops
 
-![](https://www.jorgesanz.net/assets/imgs/me/jsanz_small4.png)
+![](https://avatars.githubusercontent.com/u/31803030?v=4)
